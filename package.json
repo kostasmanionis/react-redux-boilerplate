@@ -1,0 +1,24 @@
+{
+    "name": "react-redux-boilerplate",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kostasmanionis/react-redux-boilerplate.git"
+    },
+    "keywords": [
+        "react",
+        "redux",
+        "boilerplate"
+    ],
+    "author": "Kostas Manionis",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kostasmanionis/react-redux-boilerplate/issues"
+    },
+    "homepage": "https://github.com/kostasmanionis/react-redux-boilerplate#readme"
+}
