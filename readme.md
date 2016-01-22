@@ -6,7 +6,7 @@ Another frontend boilerplate project including
 
 - [x] [Webpack](https://webpack.github.io)
 - [x] [React](https://facebook.github.io/react/)
-- [ ] [Redux](https://github.com/rackt/redux)
+- [x] [Redux](https://github.com/rackt/redux)
 - [ ] [Redux DevTools](https://github.com/gaearon/redux-devtools)
 - [x] [Babel](https://babeljs.io/)
 - [x] [Hot reloading](https://github.com/gaearon/babel-plugin-react-transform)
